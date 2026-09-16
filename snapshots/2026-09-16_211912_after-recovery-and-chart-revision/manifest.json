@@ -1,0 +1,110 @@
+{
+  "snapshot": "2026-09-16_211912_after-recovery-and-chart-revision",
+  "created_at": "2026-09-16T21:21:48.310702+08:00",
+  "purpose": "User-authorized exact snapshot after scene recovery and real chart annotation revision.",
+  "source_directory": "E:\\0school\\研二上\\iclr27\\drawio",
+  "scope": "Same eight top-level formal *.drawio files; excludes material files and temporary backups. No spreadsheet or application databases included.",
+  "files": [
+    {
+      "filename": "dvca bc 0915.drawio",
+      "bytes": 26215506,
+      "sha256": "f34587facdf8e3cd2cd973712da1c0368e0787a13f1402101a27e2a148f0d6f7",
+      "source_path": "E:\\0school\\研二上\\iclr27\\drawio\\dvca bc 0915.drawio",
+      "source_mtime": "2026-09-15T23:18:25.810470+08:00",
+      "well_formed_xml": true,
+      "root_tag": "mxfile",
+      "diagram_count": 7,
+      "changed_since_previous_snapshot": false
+    },
+    {
+      "filename": "dvca exp scene 0916.drawio",
+      "bytes": 39555121,
+      "sha256": "e9b1d55d51c25ada66e3b2848076f0149ef7ed460501ab8aebfb2269e6af3990",
+      "source_path": "E:\\0school\\研二上\\iclr27\\drawio\\dvca exp scene 0916.drawio",
+      "source_mtime": "2026-09-16T21:11:58.935905+08:00",
+      "well_formed_xml": true,
+      "root_tag": "mxfile",
+      "diagram_count": 3,
+      "changed_since_previous_snapshot": true
+    },
+    {
+      "filename": "dvca head 0912.drawio",
+      "bytes": 71308587,
+      "sha256": "7ce6536c569feeff6d0bb3d0bc762e2ebd1500ba37dc2069f40557647d40c77c",
+      "source_path": "E:\\0school\\研二上\\iclr27\\drawio\\dvca head 0912.drawio",
+      "source_mtime": "2026-09-13T21:15:49.266240+08:00",
+      "well_formed_xml": true,
+      "root_tag": "mxfile",
+      "diagram_count": 9,
+      "changed_since_previous_snapshot": false
+    },
+    {
+      "filename": "dvca main 0914.drawio",
+      "bytes": 32283550,
+      "sha256": "04eec8c47062a553059cbb4f6c7b41a8d6b8250c9961ded02186b83e77ac1add",
+      "source_path": "E:\\0school\\研二上\\iclr27\\drawio\\dvca main 0914.drawio",
+      "source_mtime": "2026-09-15T20:15:24.053586+08:00",
+      "well_formed_xml": true,
+      "root_tag": "mxfile",
+      "diagram_count": 9,
+      "changed_since_previous_snapshot": false
+    },
+    {
+      "filename": "dvca pcode 0915.drawio",
+      "bytes": 3300828,
+      "sha256": "077e5e615c9b0965778b249ad9202fdfab4d38272804663d1966f773d03eded3",
+      "source_path": "E:\\0school\\研二上\\iclr27\\drawio\\dvca pcode 0915.drawio",
+      "source_mtime": "2026-09-15T20:21:05.279990+08:00",
+      "well_formed_xml": true,
+      "root_tag": "mxfile",
+      "diagram_count": 6,
+      "changed_since_previous_snapshot": false
+    },
+    {
+      "filename": "dvca real chart 0916.drawio",
+      "bytes": 1743784,
+      "sha256": "bfd3aca787fc0baa6b41f102543ab46a673d2adc95df8e2ebd778b8ae4741f62",
+      "source_path": "E:\\0school\\研二上\\iclr27\\drawio\\dvca real chart 0916.drawio",
+      "source_mtime": "2026-09-16T21:14:08.916159+08:00",
+      "well_formed_xml": true,
+      "root_tag": "mxfile",
+      "diagram_count": 2,
+      "changed_since_previous_snapshot": true
+    },
+    {
+      "filename": "dvca real sample chart 0916.drawio",
+      "bytes": 165529,
+      "sha256": "be12e8c2c0591d43fe63a665303d6eda5a2587d9a588c2e65d562ab208dc812c",
+      "source_path": "E:\\0school\\研二上\\iclr27\\drawio\\dvca real sample chart 0916.drawio",
+      "source_mtime": "2026-09-16T21:16:45.391516+08:00",
+      "well_formed_xml": true,
+      "root_tag": "mxfile",
+      "diagram_count": 1,
+      "changed_since_previous_snapshot": true
+    },
+    {
+      "filename": "turn_switch_world_选帧_0915.drawio",
+      "bytes": 386328,
+      "sha256": "effba0e00c64bc3e7f434b0664a574199345c30340fb0f8ce9c03bd0af279f37",
+      "source_path": "E:\\0school\\研二上\\iclr27\\drawio\\turn_switch_world_选帧_0915.drawio",
+      "source_mtime": "2026-09-15T18:03:11.162102+08:00",
+      "well_formed_xml": true,
+      "root_tag": "mxfile",
+      "diagram_count": 1,
+      "changed_since_previous_snapshot": false
+    }
+  ],
+  "excluded_material_files": [
+    "ODPR_Fig1_素材.drawio",
+    "dvca exp material.drawio",
+    "主图素材.drawio",
+    "头图素材.drawio"
+  ],
+  "previous_snapshot": "2026-09-16_210942_before-recovery",
+  "previous_commit": "5c4f008516ad63ab00aa5a4a7acc4ca081aaf1fa",
+  "changes": {
+    "dvca exp scene 0916.drawio": "Recovered complete three-page file, including nine latest rightward-position changes.",
+    "dvca real chart 0916.drawio": "Annotation revision delivered as first page with original page preserved; two pages total.",
+    "dvca real sample chart 0916.drawio": "Independent user edit detected at 21:16:45, preserved verbatim in current snapshot."
+  }
+}
