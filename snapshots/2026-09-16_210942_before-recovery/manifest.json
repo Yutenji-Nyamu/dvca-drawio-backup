@@ -1,0 +1,95 @@
+{
+  "snapshot": "2026-09-16_210942_before-recovery",
+  "created_at": "2026-09-16T21:10:38.131289+08:00",
+  "purpose": "User-authorized exact current-file snapshot before scene recovery and annotation updates.",
+  "source_directory": "E:\\0school\\研二上\\iclr27\\drawio",
+  "scope": "Top-level formal *.drawio files excluding names containing 素材 or material. Temporary backup files excluded.",
+  "files": [
+    {
+      "filename": "dvca bc 0915.drawio",
+      "bytes": 26215506,
+      "sha256": "f34587facdf8e3cd2cd973712da1c0368e0787a13f1402101a27e2a148f0d6f7",
+      "source_path": "E:\\0school\\研二上\\iclr27\\drawio\\dvca bc 0915.drawio",
+      "source_mtime": "2026-09-15T23:18:25.810470+08:00",
+      "well_formed_xml": true,
+      "root_tag": "mxfile",
+      "diagram_count": 7
+    },
+    {
+      "filename": "dvca exp scene 0916.drawio",
+      "bytes": 2621440,
+      "sha256": "180d13e45131c4285f9a6ae6e77e1209e0302dc5a7d0a6b1d132f80a2eb6882f",
+      "source_path": "E:\\0school\\研二上\\iclr27\\drawio\\dvca exp scene 0916.drawio",
+      "source_mtime": "2026-09-16T21:01:27.400845+08:00",
+      "well_formed_xml": false,
+      "parse_error": "unclosed token: line 64, column 8"
+    },
+    {
+      "filename": "dvca head 0912.drawio",
+      "bytes": 71308587,
+      "sha256": "7ce6536c569feeff6d0bb3d0bc762e2ebd1500ba37dc2069f40557647d40c77c",
+      "source_path": "E:\\0school\\研二上\\iclr27\\drawio\\dvca head 0912.drawio",
+      "source_mtime": "2026-09-13T21:15:49.266240+08:00",
+      "well_formed_xml": true,
+      "root_tag": "mxfile",
+      "diagram_count": 9
+    },
+    {
+      "filename": "dvca main 0914.drawio",
+      "bytes": 32283550,
+      "sha256": "04eec8c47062a553059cbb4f6c7b41a8d6b8250c9961ded02186b83e77ac1add",
+      "source_path": "E:\\0school\\研二上\\iclr27\\drawio\\dvca main 0914.drawio",
+      "source_mtime": "2026-09-15T20:15:24.053586+08:00",
+      "well_formed_xml": true,
+      "root_tag": "mxfile",
+      "diagram_count": 9
+    },
+    {
+      "filename": "dvca pcode 0915.drawio",
+      "bytes": 3300828,
+      "sha256": "077e5e615c9b0965778b249ad9202fdfab4d38272804663d1966f773d03eded3",
+      "source_path": "E:\\0school\\研二上\\iclr27\\drawio\\dvca pcode 0915.drawio",
+      "source_mtime": "2026-09-15T20:21:05.279990+08:00",
+      "well_formed_xml": true,
+      "root_tag": "mxfile",
+      "diagram_count": 6
+    },
+    {
+      "filename": "dvca real chart 0916.drawio",
+      "bytes": 126466,
+      "sha256": "8a622e4a40d57433ff370624ee120b94200fa44eb05bddf9afeb634018bb11b6",
+      "source_path": "E:\\0school\\研二上\\iclr27\\drawio\\dvca real chart 0916.drawio",
+      "source_mtime": "2026-09-16T20:57:14.098583+08:00",
+      "well_formed_xml": true,
+      "root_tag": "mxfile",
+      "diagram_count": 1
+    },
+    {
+      "filename": "dvca real sample chart 0916.drawio",
+      "bytes": 580,
+      "sha256": "96fcaf231fb7d37ca901138fba68e7c4462a65ae01330c320310dad054317a55",
+      "source_path": "E:\\0school\\研二上\\iclr27\\drawio\\dvca real sample chart 0916.drawio",
+      "source_mtime": "2026-09-16T21:03:30.511975+08:00",
+      "well_formed_xml": true,
+      "root_tag": "mxfile",
+      "diagram_count": 1
+    },
+    {
+      "filename": "turn_switch_world_选帧_0915.drawio",
+      "bytes": 386328,
+      "sha256": "effba0e00c64bc3e7f434b0664a574199345c30340fb0f8ce9c03bd0af279f37",
+      "source_path": "E:\\0school\\研二上\\iclr27\\drawio\\turn_switch_world_选帧_0915.drawio",
+      "source_mtime": "2026-09-15T18:03:11.162102+08:00",
+      "well_formed_xml": true,
+      "root_tag": "mxfile",
+      "diagram_count": 1
+    }
+  ],
+  "excluded_material_files": [
+    "ODPR_Fig1_素材.drawio",
+    "dvca exp material.drawio",
+    "主图素材.drawio",
+    "头图素材.drawio"
+  ],
+  "note": "dvca exp scene 0916.drawio is the damaged current on-disk file, preserved as forensic evidence. It is not a valid recovered version."
+}
