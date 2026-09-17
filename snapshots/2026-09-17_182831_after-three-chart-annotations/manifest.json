@@ -1,0 +1,136 @@
+{
+  "snapshot": "2026-09-17_182831_after-three-chart-annotations",
+  "created_at": "2026-09-17T18:28:31.822715+08:00",
+  "purpose": "Exact nine-file snapshot after bar, sample, and comparison/ablation chart annotations.",
+  "source_directory": "E:\\0school\\研二上\\iclr27\\drawio",
+  "scope": "Nine formal top-level Draw.io files plus this README and manifest. Material files, temporary backups, Excel files, and credentials are excluded.",
+  "files": [
+    {
+      "filename": "dvca bc 0915.drawio",
+      "bytes": 26215506,
+      "sha256": "f34587facdf8e3cd2cd973712da1c0368e0787a13f1402101a27e2a148f0d6f7",
+      "source_path": "E:\\0school\\研二上\\iclr27\\drawio\\dvca bc 0915.drawio",
+      "source_mtime": "2026-09-15T23:18:25.810470+08:00",
+      "well_formed_utf8_xml": true,
+      "root_tag": "mxfile",
+      "diagram_count": 7,
+      "changed_since_previous_snapshot": false
+    },
+    {
+      "filename": "dvca curve comp&abl 0917.drawio",
+      "bytes": 3995885,
+      "sha256": "784e488d0660f88ccd9ce6a2d854119b3d3b6a7f9bd35f56630ce77404e5f32f",
+      "source_path": "E:\\0school\\研二上\\iclr27\\drawio\\dvca curve comp&abl 0917.drawio",
+      "source_mtime": "2026-09-17T18:15:19.761324+08:00",
+      "well_formed_utf8_xml": true,
+      "root_tag": "mxfile",
+      "diagram_count": 2,
+      "changed_since_previous_snapshot": true
+    },
+    {
+      "filename": "dvca exp scene 0916.drawio",
+      "bytes": 52810226,
+      "sha256": "5006155b73442cfb8846430847ca7e267aa20c2d726b8c1266bf203fc4f23a76",
+      "source_path": "E:\\0school\\研二上\\iclr27\\drawio\\dvca exp scene 0916.drawio",
+      "source_mtime": "2026-09-16T21:45:18.961901+08:00",
+      "well_formed_utf8_xml": true,
+      "root_tag": "mxfile",
+      "diagram_count": 4,
+      "changed_since_previous_snapshot": false
+    },
+    {
+      "filename": "dvca head 0912.drawio",
+      "bytes": 71308587,
+      "sha256": "7ce6536c569feeff6d0bb3d0bc762e2ebd1500ba37dc2069f40557647d40c77c",
+      "source_path": "E:\\0school\\研二上\\iclr27\\drawio\\dvca head 0912.drawio",
+      "source_mtime": "2026-09-13T21:15:49.266240+08:00",
+      "well_formed_utf8_xml": true,
+      "root_tag": "mxfile",
+      "diagram_count": 9,
+      "changed_since_previous_snapshot": false
+    },
+    {
+      "filename": "dvca main 0914.drawio",
+      "bytes": 32283550,
+      "sha256": "04eec8c47062a553059cbb4f6c7b41a8d6b8250c9961ded02186b83e77ac1add",
+      "source_path": "E:\\0school\\研二上\\iclr27\\drawio\\dvca main 0914.drawio",
+      "source_mtime": "2026-09-15T20:15:24.053586+08:00",
+      "well_formed_utf8_xml": true,
+      "root_tag": "mxfile",
+      "diagram_count": 9,
+      "changed_since_previous_snapshot": false
+    },
+    {
+      "filename": "dvca pcode 0915.drawio",
+      "bytes": 3300828,
+      "sha256": "077e5e615c9b0965778b249ad9202fdfab4d38272804663d1966f773d03eded3",
+      "source_path": "E:\\0school\\研二上\\iclr27\\drawio\\dvca pcode 0915.drawio",
+      "source_mtime": "2026-09-15T20:21:05.279990+08:00",
+      "well_formed_utf8_xml": true,
+      "root_tag": "mxfile",
+      "diagram_count": 6,
+      "changed_since_previous_snapshot": false
+    },
+    {
+      "filename": "dvca real chart 0916.drawio",
+      "bytes": 6554788,
+      "sha256": "e744e74ae12432ddf5b5936e6f2c24c4d4eadcc82c0b1cffad44eba8ce3da5d4",
+      "source_path": "E:\\0school\\研二上\\iclr27\\drawio\\dvca real chart 0916.drawio",
+      "source_mtime": "2026-09-17T18:01:43.159814+08:00",
+      "well_formed_utf8_xml": true,
+      "root_tag": "mxfile",
+      "diagram_count": 5,
+      "changed_since_previous_snapshot": true
+    },
+    {
+      "filename": "dvca real sample chart 0916.drawio",
+      "bytes": 6395201,
+      "sha256": "39aa3e18aa4eda987eeee36d9d6df5fb888b214dd3ea44549ff9653bdb8410ae",
+      "source_path": "E:\\0school\\研二上\\iclr27\\drawio\\dvca real sample chart 0916.drawio",
+      "source_mtime": "2026-09-17T18:05:10.311094+08:00",
+      "well_formed_utf8_xml": true,
+      "root_tag": "mxfile",
+      "diagram_count": 5,
+      "changed_since_previous_snapshot": true
+    },
+    {
+      "filename": "turn_switch_world_选帧_0915.drawio",
+      "bytes": 386328,
+      "sha256": "effba0e00c64bc3e7f434b0664a574199345c30340fb0f8ce9c03bd0af279f37",
+      "source_path": "E:\\0school\\研二上\\iclr27\\drawio\\turn_switch_world_选帧_0915.drawio",
+      "source_mtime": "2026-09-15T18:03:11.162102+08:00",
+      "well_formed_utf8_xml": true,
+      "root_tag": "mxfile",
+      "diagram_count": 1,
+      "changed_since_previous_snapshot": false
+    }
+  ],
+  "excluded_material_files": [
+    "ODPR_Fig1_素材.drawio",
+    "dvca exp material.drawio",
+    "主图素材.drawio",
+    "头图素材.drawio"
+  ],
+  "previous_snapshot": "2026-09-17_173028_after-real-data-first",
+  "previous_commit": "2869ec88cd5a44d728d278e784546819f44ca84f",
+  "expected_revisions_verified": {
+    "dvca real chart 0916.drawio": {
+      "sha256": "e744e74ae12432ddf5b5936e6f2c24c4d4eadcc82c0b1cffad44eba8ce3da5d4",
+      "pages": 5
+    },
+    "dvca real sample chart 0916.drawio": {
+      "sha256": "39aa3e18aa4eda987eeee36d9d6df5fb888b214dd3ea44549ff9653bdb8410ae",
+      "pages": 5
+    },
+    "dvca curve comp&abl 0917.drawio": {
+      "sha256": "784e488d0660f88ccd9ce6a2d854119b3d3b6a7f9bd35f56630ce77404e5f32f",
+      "pages": 2
+    }
+  },
+  "changes": {
+    "dvca real chart 0916.drawio": "Continuous background grid; new first page and all four source pages retained.",
+    "dvca real sample chart 0916.drawio": "Four panel frames and adaptive vertical axes; new first page and all four source pages retained.",
+    "dvca curve comp&abl 0917.drawio": "Comparison/ablation chart annotations; reference trajectories preserved as placeholders; new first page and source page retained."
+  },
+  "push": "Not performed by this script; root task handles the authorized push separately."
+}
