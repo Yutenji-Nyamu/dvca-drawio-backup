@@ -1,0 +1,62 @@
+{
+  "snapshot": "2026-09-17_215757_after-curve-web-round3",
+  "previous_commit": "8891320659c3420b4b31e54317c3ea7cdefc26ea",
+  "files": [
+    {
+      "filename": "dvca bc 0915.drawio",
+      "bytes": 26215506,
+      "sha256": "f34587facdf8e3cd2cd973712da1c0368e0787a13f1402101a27e2a148f0d6f7",
+      "pages": 7
+    },
+    {
+      "filename": "dvca curve comp&abl 0917.drawio",
+      "bytes": 10717662,
+      "sha256": "13b60cceaa48bae0c0f7412f38a8d55537e78d1f06daad450cbdc35fcb1ab45f",
+      "pages": 5
+    },
+    {
+      "filename": "dvca exp scene 0916.drawio",
+      "bytes": 52810226,
+      "sha256": "5006155b73442cfb8846430847ca7e267aa20c2d726b8c1266bf203fc4f23a76",
+      "pages": 4
+    },
+    {
+      "filename": "dvca head 0912.drawio",
+      "bytes": 71308587,
+      "sha256": "7ce6536c569feeff6d0bb3d0bc762e2ebd1500ba37dc2069f40557647d40c77c",
+      "pages": 9
+    },
+    {
+      "filename": "dvca main 0914.drawio",
+      "bytes": 32283550,
+      "sha256": "04eec8c47062a553059cbb4f6c7b41a8d6b8250c9961ded02186b83e77ac1add",
+      "pages": 9
+    },
+    {
+      "filename": "dvca pcode 0915.drawio",
+      "bytes": 3300828,
+      "sha256": "077e5e615c9b0965778b249ad9202fdfab4d38272804663d1966f773d03eded3",
+      "pages": 6
+    },
+    {
+      "filename": "dvca real chart 0916.drawio",
+      "bytes": 6554788,
+      "sha256": "e744e74ae12432ddf5b5936e6f2c24c4d4eadcc82c0b1cffad44eba8ce3da5d4",
+      "pages": 5
+    },
+    {
+      "filename": "dvca real sample chart 0916.drawio",
+      "bytes": 6395574,
+      "sha256": "9c85ee182b90430904e920d97a2a0c9dac995712dddd055165ff1acc06b36ff3",
+      "pages": 5
+    },
+    {
+      "filename": "turn_switch_world_选帧_0915.drawio",
+      "bytes": 386328,
+      "sha256": "effba0e00c64bc3e7f434b0664a574199345c30340fb0f8ce9c03bd0af279f37",
+      "pages": 1
+    }
+  ],
+  "scope": "Formal Draw.io only; material files excluded",
+  "change": "Web-assisted curve revision: MA5 first 250 student rounds, native peak labels/stars and size candidates; four original pages preserved."
+}
