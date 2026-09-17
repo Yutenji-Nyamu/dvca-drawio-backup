@@ -1,0 +1,120 @@
+{
+  "snapshot": "2026-09-17_173028_after-real-data-first",
+  "created_at": "2026-09-17T17:32:49.717819+08:00",
+  "purpose": "User-authorized full snapshot after first real-data bar and sample chart revision. Both target files have four pages: new data page first and all prior pages preserved.",
+  "source_directory": "E:\\0school\\研二上\\iclr27\\drawio",
+  "scope": "All nine current top-level formal *.drawio files, including newly created dvca curve comp&abl 0917.drawio; excludes names containing 素材 or material, and temporary .bak/.bkp files. Only Draw.io files, README, and manifest are included.",
+  "files": [
+    {
+      "filename": "dvca bc 0915.drawio",
+      "bytes": 26215506,
+      "sha256": "f34587facdf8e3cd2cd973712da1c0368e0787a13f1402101a27e2a148f0d6f7",
+      "source_path": "E:\\0school\\研二上\\iclr27\\drawio\\dvca bc 0915.drawio",
+      "source_mtime": "2026-09-15T23:18:25.810470+08:00",
+      "well_formed_xml": true,
+      "root_tag": "mxfile",
+      "diagram_count": 7,
+      "changed_since_previous_snapshot": false
+    },
+    {
+      "filename": "dvca curve comp&abl 0917.drawio",
+      "bytes": 1265,
+      "sha256": "55fc55ce22614e6b07d3b381d516aa3fb84e315069e3221adfceeaa671fcfd28",
+      "source_path": "E:\\0school\\研二上\\iclr27\\drawio\\dvca curve comp&abl 0917.drawio",
+      "source_mtime": "2026-09-17T17:32:12.302952+08:00",
+      "well_formed_xml": true,
+      "root_tag": "mxfile",
+      "diagram_count": 1,
+      "changed_since_previous_snapshot": true
+    },
+    {
+      "filename": "dvca exp scene 0916.drawio",
+      "bytes": 52810226,
+      "sha256": "5006155b73442cfb8846430847ca7e267aa20c2d726b8c1266bf203fc4f23a76",
+      "source_path": "E:\\0school\\研二上\\iclr27\\drawio\\dvca exp scene 0916.drawio",
+      "source_mtime": "2026-09-16T21:45:18.961901+08:00",
+      "well_formed_xml": true,
+      "root_tag": "mxfile",
+      "diagram_count": 4,
+      "changed_since_previous_snapshot": false
+    },
+    {
+      "filename": "dvca head 0912.drawio",
+      "bytes": 71308587,
+      "sha256": "7ce6536c569feeff6d0bb3d0bc762e2ebd1500ba37dc2069f40557647d40c77c",
+      "source_path": "E:\\0school\\研二上\\iclr27\\drawio\\dvca head 0912.drawio",
+      "source_mtime": "2026-09-13T21:15:49.266240+08:00",
+      "well_formed_xml": true,
+      "root_tag": "mxfile",
+      "diagram_count": 9,
+      "changed_since_previous_snapshot": false
+    },
+    {
+      "filename": "dvca main 0914.drawio",
+      "bytes": 32283550,
+      "sha256": "04eec8c47062a553059cbb4f6c7b41a8d6b8250c9961ded02186b83e77ac1add",
+      "source_path": "E:\\0school\\研二上\\iclr27\\drawio\\dvca main 0914.drawio",
+      "source_mtime": "2026-09-15T20:15:24.053586+08:00",
+      "well_formed_xml": true,
+      "root_tag": "mxfile",
+      "diagram_count": 9,
+      "changed_since_previous_snapshot": false
+    },
+    {
+      "filename": "dvca pcode 0915.drawio",
+      "bytes": 3300828,
+      "sha256": "077e5e615c9b0965778b249ad9202fdfab4d38272804663d1966f773d03eded3",
+      "source_path": "E:\\0school\\研二上\\iclr27\\drawio\\dvca pcode 0915.drawio",
+      "source_mtime": "2026-09-15T20:21:05.279990+08:00",
+      "well_formed_xml": true,
+      "root_tag": "mxfile",
+      "diagram_count": 6,
+      "changed_since_previous_snapshot": false
+    },
+    {
+      "filename": "dvca real chart 0916.drawio",
+      "bytes": 4969745,
+      "sha256": "e08ece5578e6fb0e34ec759066367662f259df35d47ae30817c70b2841b4f8f6",
+      "source_path": "E:\\0school\\研二上\\iclr27\\drawio\\dvca real chart 0916.drawio",
+      "source_mtime": "2026-09-17T17:11:12.770808+08:00",
+      "well_formed_xml": true,
+      "root_tag": "mxfile",
+      "diagram_count": 4,
+      "changed_since_previous_snapshot": true
+    },
+    {
+      "filename": "dvca real sample chart 0916.drawio",
+      "bytes": 4868106,
+      "sha256": "67c99d872887e42a7cd373a514aa59128cc014fbc508a00fc093743ba30a31f8",
+      "source_path": "E:\\0school\\研二上\\iclr27\\drawio\\dvca real sample chart 0916.drawio",
+      "source_mtime": "2026-09-17T17:24:51.832775+08:00",
+      "well_formed_xml": true,
+      "root_tag": "mxfile",
+      "diagram_count": 4,
+      "changed_since_previous_snapshot": true
+    },
+    {
+      "filename": "turn_switch_world_选帧_0915.drawio",
+      "bytes": 386328,
+      "sha256": "effba0e00c64bc3e7f434b0664a574199345c30340fb0f8ce9c03bd0af279f37",
+      "source_path": "E:\\0school\\研二上\\iclr27\\drawio\\turn_switch_world_选帧_0915.drawio",
+      "source_mtime": "2026-09-15T18:03:11.162102+08:00",
+      "well_formed_xml": true,
+      "root_tag": "mxfile",
+      "diagram_count": 1,
+      "changed_since_previous_snapshot": false
+    }
+  ],
+  "excluded_material_files": [
+    "ODPR_Fig1_素材.drawio",
+    "dvca exp material.drawio",
+    "主图素材.drawio",
+    "头图素材.drawio"
+  ],
+  "previous_snapshot": "2026-09-17_153926_after-real-chart-annotations",
+  "previous_commit": "50509ae27e38d46e2883b907c82fc0062ba8f83b",
+  "explicit_revision_hashes_verified": {
+    "dvca real chart 0916.drawio": "e08ece5578e6fb0e34ec759066367662f259df35d47ae30817c70b2841b4f8f6",
+    "dvca real sample chart 0916.drawio": "67c99d872887e42a7cd373a514aa59128cc014fbc508a00fc093743ba30a31f8"
+  }
+}
