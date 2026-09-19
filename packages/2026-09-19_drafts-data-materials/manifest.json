@@ -1,0 +1,309 @@
+[
+  {
+    "file": "Codex_drawio画图要点.md",
+    "category": "04_drawing_guides",
+    "bytes": 11994,
+    "sha256": "4a58fb1464e43029bd79a4d87e67125d811764e5e9d34e0e82afd905b9444350",
+    "pages": [],
+    "archive": "04_drawing_guides/Codex_drawio画图要点.md.zip",
+    "archive_bytes": 6154,
+    "archive_sha256": "b8550f5674d8758a329bda37d1760141b04a2f111d6b4d491d2aed918ec72aca"
+  },
+  {
+    "file": "dvca bc 0915.drawio",
+    "category": "01_paper_drafts",
+    "bytes": 26215506,
+    "sha256": "f34587facdf8e3cd2cd973712da1c0368e0787a13f1402101a27e2a148f0d6f7",
+    "pages": [
+      "00_BC_精修二_Update粉色_0915",
+      "00_BC_精修一_批注",
+      "01_DV尺寸与Loss命名",
+      "00_BC_简图提议",
+      "01_当前GRPO主图",
+      "02_BC与数据池素材",
+      "03_信号与公式"
+    ],
+    "archive": "01_paper_drafts/dvca bc 0915.drawio.zip",
+    "archive_bytes": 11625663,
+    "archive_sha256": "324d37bf40261bf5b30d72b6d7052d25962b3c487b6daa0ebac0d892b946bfca"
+  },
+  {
+    "file": "dvca curve comp&abl 0917.drawio",
+    "category": "01_paper_drafts",
+    "bytes": 10324925,
+    "sha256": "e41fbf0ff60dd10bbaf62ff89f1add7b572eae7b0b4ec9bc0df62e445310b66e",
+    "pages": [
+      "01_对比与消融_0917_v3",
+      "01_对比与消融_0917_v2",
+      "02_RLT_逐轮与滑动平均候选",
+      "01_对比消融曲线_批注处理_0917",
+      "第 1 页"
+    ],
+    "archive": "01_paper_drafts/dvca curve comp&abl 0917.drawio.zip",
+    "archive_bytes": 4664841,
+    "archive_sha256": "26cb94e5625a0d9fef792a5c01d556146c416884a98f2bee6ae074cf5eda069f"
+  },
+  {
+    "file": "dvca curve raw data.xlsx",
+    "category": "02_plot_data",
+    "bytes": 23195,
+    "sha256": "effd100b13743b81a162d49fc06bba42a5bbcc33838e6257968975ef34509415",
+    "pages": [],
+    "archive": "02_plot_data/dvca curve raw data.xlsx.zip",
+    "archive_bytes": 21480,
+    "archive_sha256": "3ee17501c7f122413f0915344b02cbc9ee24f2ba64ad304646c5f3cd8487c2bc"
+  },
+  {
+    "file": "dvca exp material.drawio",
+    "category": "03_drawio_materials",
+    "bytes": 91507200,
+    "sha256": "cee89b22dcc28e5bd6c9033bcf80e08d5d7b1f9a27010629d08f23b3ca8b2e3f",
+    "pages": [
+      "01_真机任务与帧标号",
+      "02_任务成功率与吞吐量",
+      "03_真机训练曲线",
+      "04_训练与OOD曲线",
+      "05_消融曲线与对比",
+      "06_任务信号与热图",
+      "07_真机9任务72帧",
+      "08_仿真4任务与多视角",
+      "09_DV实测与对应帧"
+    ],
+    "archive": "03_drawio_materials/dvca exp material.drawio.zip",
+    "archive_bytes": 69276809,
+    "archive_sha256": "fc4ce8688b76154a1d0369560376ea56e104703df95e081a8d610c0104607547"
+  },
+  {
+    "file": "dvca exp scene 0916.drawio",
+    "category": "01_paper_drafts",
+    "bytes": 52810226,
+    "sha256": "5006155b73442cfb8846430847ca7e267aa20c2d726b8c1266bf203fc4f23a76",
+    "pages": [
+      "03_实验场景_Times与随机场景_0916",
+      "02_实验场景_精修二_0916",
+      "01_实验场景_批注处理_0916",
+      "第 1 页"
+    ],
+    "archive": "01_paper_drafts/dvca exp scene 0916.drawio.zip",
+    "archive_bytes": 39509386,
+    "archive_sha256": "62fb98e393e95b7aa5ff2b9767ebc08bd7d19e337ecb8feb1a2059134d4040b1"
+  },
+  {
+    "file": "dvca head 0912.drawio",
+    "category": "01_paper_drafts",
+    "bytes": 71308587,
+    "sha256": "7ce6536c569feeff6d0bb3d0bc762e2ebd1500ba37dc2069f40557647d40c77c",
+    "pages": [
+      "00_精修七_标签与短句",
+      "00_精修六_信号方法实验",
+      "00_精修五_逐条批注修订",
+      "00_精修四_新批注与试样",
+      "00_精修三_主图与选择",
+      "00_按标注精修_主图与备选",
+      "01_头图_A",
+      "02_备选与组件",
+      "03_原始草稿"
+    ],
+    "archive": "01_paper_drafts/dvca head 0912.drawio.zip",
+    "archive_bytes": 52002179,
+    "archive_sha256": "e4bbb5a215ee4beb0b6281b0b57aff77e20f132ce99bb23d56597a25c556c157"
+  },
+  {
+    "file": "dvca main 0914.drawio",
+    "category": "01_paper_drafts",
+    "bytes": 32283550,
+    "sha256": "04eec8c47062a553059cbb4f6c7b41a8d6b8250c9961ded02186b83e77ac1add",
+    "pages": [
+      "00_精修八_公式间距与导出_0915",
+      "00_精修七_四框对齐与间距_0915",
+      "00_精修六_符号与缩放面板_0915",
+      "00_精修五_原生连线_0915",
+      "00_精修四_字体与优势符号_0915",
+      "01_环境与验证器_四种候选_0915",
+      "00_精修二_自由编辑与方案_0915",
+      "00_批注处理_字体与信号_0915",
+      "第 1 页"
+    ],
+    "archive": "01_paper_drafts/dvca main 0914.drawio.zip",
+    "archive_bytes": 15487573,
+    "archive_sha256": "560f0cd00072a0cfa5f4f10b665a3577f8370de4ab67f78c6b1efc9a4f26d5be"
+  },
+  {
+    "file": "dvca pcode 0915.drawio",
+    "category": "01_paper_drafts",
+    "bytes": 3300828,
+    "sha256": "077e5e615c9b0965778b249ad9202fdfab4d38272804663d1966f773d03eded3",
+    "pages": [
+      "00_DVCA_pcode_收紧宽度与导出",
+      "00_DVCA_rollout_紧凑行距",
+      "00_DVCA_rollout_统一框与命名",
+      "00_DVCA_rollout_批注修订",
+      "01_SimpleVLA-RL_原例与粒度",
+      "02_DVCA_交互循环与绿色新增"
+    ],
+    "archive": "01_paper_drafts/dvca pcode 0915.drawio.zip",
+    "archive_bytes": 661255,
+    "archive_sha256": "86379e0b4474c57b29dde9c26c6d3419f0cb47d14313f1b72a8ca98ff10c8bdc"
+  },
+  {
+    "file": "dvca real chart 0916.drawio",
+    "category": "01_paper_drafts",
+    "bytes": 6554788,
+    "sha256": "e744e74ae12432ddf5b5936e6f2c24c4d4eadcc82c0b1cffad44eba8ce3da5d4",
+    "pages": [
+      "01_真机柱状图_连续背景_0917",
+      "01_真机柱状图_成功率1_0917",
+      "01_真机柱状图_恢复阴影_0917",
+      "01_真机柱状图_批注处理_0916",
+      "第 1 页"
+    ],
+    "archive": "01_paper_drafts/dvca real chart 0916.drawio.zip",
+    "archive_bytes": 2936700,
+    "archive_sha256": "d6177cefa894e8577d563a9b9efa1c17173a90f07cc1267d962e76d012edcf58"
+  },
+  {
+    "file": "dvca real chart data.xlsx",
+    "category": "02_plot_data",
+    "bytes": 11332,
+    "sha256": "e15f479584efc8db235d414f76bcd61e52a408902ad6aea1c3793bfc2c5fa0f7",
+    "pages": [],
+    "archive": "02_plot_data/dvca real chart data.xlsx.zip",
+    "archive_bytes": 10154,
+    "archive_sha256": "276bf89baddc08eeb1905ae6564630f597c73c94af021466edc7ac559063ab0d"
+  },
+  {
+    "file": "dvca real sample chart 0916.drawio",
+    "category": "01_paper_drafts",
+    "bytes": 6395574,
+    "sha256": "9c85ee182b90430904e920d97a2a0c9dac995712dddd055165ff1acc06b36ff3",
+    "pages": [
+      "01_采样曲线_自适应纵轴_0917",
+      "01_采样曲线_填写数据_0917",
+      "01_四任务采样曲线_批注处理_0917",
+      "01_真机采样曲线_批注处理_0916",
+      "第 1 页"
+    ],
+    "archive": "01_paper_drafts/dvca real sample chart 0916.drawio.zip",
+    "archive_bytes": 2907624,
+    "archive_sha256": "b8b291d990817d68ce61f00ae4e64032a8f166443ae03b340ecdefb47a96b0e0"
+  },
+  {
+    "file": "dvca real sample chart data.xlsx",
+    "category": "02_plot_data",
+    "bytes": 21327,
+    "sha256": "cf01766e6843736f91700ee77b314d3e9c695f81e84f51ad5388fd305e5100f5",
+    "pages": [],
+    "archive": "02_plot_data/dvca real sample chart data.xlsx.zip",
+    "archive_bytes": 18079,
+    "archive_sha256": "6e6e6317037ee64e04e8c811ecd70415f7fb31ccc85eba686551a942c48e9d1a"
+  },
+  {
+    "file": "ODPR_Fig1_素材.drawio",
+    "category": "03_drawio_materials",
+    "bytes": 932176,
+    "sha256": "54ae74035f92e1bf374c5c1a89ca8a0096d7359fee47883e633f7ee07862aa59",
+    "pages": [
+      "ODPR_Fig1"
+    ],
+    "archive": "03_drawio_materials/ODPR_Fig1_素材.drawio.zip",
+    "archive_bytes": 491504,
+    "archive_sha256": "b5cb0752f0ffcfaaf9c0bb59d23657143cac813c092936146a7c501e4176cf5e"
+  },
+  {
+    "file": "turn_switch_world_选帧_0915.drawio",
+    "category": "03_drawio_materials",
+    "bytes": 386328,
+    "sha256": "effba0e00c64bc3e7f434b0664a574199345c30340fb0f8ce9c03bd0af279f37",
+    "pages": [
+      "Aloha全景帧选择"
+    ],
+    "archive": "03_drawio_materials/turn_switch_world_选帧_0915.drawio.zip",
+    "archive_bytes": 291080,
+    "archive_sha256": "4a38719249e650518670fe49eaacbaa6055c91e679024035983ba4ac0b367f35"
+  },
+  {
+    "file": "主图素材.drawio",
+    "category": "03_drawio_materials",
+    "bytes": 15449356,
+    "sha256": "957c6f63c7c55fdb7142a3d6a80081948ecc6fa18f1930b42c6ee1aa4b89f048",
+    "pages": [
+      "01_VL-Calibration_信号到训练",
+      "02_VGPO_信号与优势重加权",
+      "03_SimpleVLA-RL_流程",
+      "04_SimpleVLA-RL_伪代码",
+      "05_πRL_两种critic位置",
+      "06_RL-Token_π模型",
+      "07_Fast-WAM_完整架构与mask",
+      "08_AHA-WAM_完整架构与mask",
+      "09_Turn Switch_三相机候选"
+    ],
+    "archive": "03_drawio_materials/主图素材.drawio.zip",
+    "archive_bytes": 9054650,
+    "archive_sha256": "49180dd39220ae3113542586d6eb27afca7bbef90e2dd90749b54900f07f4391"
+  },
+  {
+    "file": "头图素材.drawio",
+    "category": "03_drawio_materials",
+    "bytes": 144441181,
+    "sha256": "ba91c67e024f6d90b05e865b7326fe8d0dcb53459a9adee1fc1345041362a7e1",
+    "pages": [
+      "01_参考元素",
+      "02_DV案例",
+      "03_RLT曲线",
+      "04_BC曲线",
+      "05_真机图片",
+      "06_仿真图片",
+      "07_论文与DV原帧",
+      "第 8 页",
+      "ODPR Fig.1"
+    ],
+    "archive": "03_drawio_materials/头图素材.drawio.zip",
+    "archive_bytes": 107662763,
+    "archive_sha256": "463ccfd17d8ecc9f84bc588c4f69c16f686ba240f190a8f256cba8a16882756b",
+    "parts": [
+      "头图素材.drawio.zip.part01",
+      "头图素材.drawio.zip.part02",
+      "头图素材.drawio.zip.part03"
+    ]
+  },
+  {
+    "file": "本轮检查与风格讨论.md",
+    "category": "04_drawing_guides",
+    "bytes": 7249,
+    "sha256": "8a33010bd4309a7625ae08f4021ac2eb3fbb3a8dc3c1710d5c166e1772bf1fde",
+    "pages": [],
+    "archive": "04_drawing_guides/本轮检查与风格讨论.md.zip",
+    "archive_bytes": 4248,
+    "archive_sha256": "1f0dc6cc2274a3b8c0825588d5f0b8a2353e1dff8ff49346563dad16315cf042"
+  },
+  {
+    "file": "精修七_逐项修改.md",
+    "category": "04_drawing_guides",
+    "bytes": 3327,
+    "sha256": "f03a33919f75d309c478cc3665821c12bb62430700733ec72fe5f8737473f573",
+    "pages": [],
+    "archive": "04_drawing_guides/精修七_逐项修改.md.zip",
+    "archive_bytes": 2006,
+    "archive_sha256": "7aaebeda2c9e970bcd0287656eff8b798e9fdc3200f139de0a64f47ca9503cc4"
+  },
+  {
+    "file": "精修五_逐条批注与处理.md",
+    "category": "04_drawing_guides",
+    "bytes": 18607,
+    "sha256": "0d8b27a56106fce0d966003e5ae193c993cb68a9c5cac9c98dc77064fbce5668",
+    "pages": [],
+    "archive": "04_drawing_guides/精修五_逐条批注与处理.md.zip",
+    "archive_bytes": 8969,
+    "archive_sha256": "c5458a2be1792842f4e39dea67da75e6e46c2a56284a443d984ccf3e5197c286"
+  },
+  {
+    "file": "精修六_逐条批注与处理.md",
+    "category": "04_drawing_guides",
+    "bytes": 4475,
+    "sha256": "c6a96b0bb558a32989623aeb99e66b20e1db7d727d90e30eb0332559a4e7ea0b",
+    "pages": [],
+    "archive": "04_drawing_guides/精修六_逐条批注与处理.md.zip",
+    "archive_bytes": 2473,
+    "archive_sha256": "c6c136252a6f55a02cce62b1b839d0f7b12236d8987fe76b4bc6e83286abd7dd"
+  }
+]
