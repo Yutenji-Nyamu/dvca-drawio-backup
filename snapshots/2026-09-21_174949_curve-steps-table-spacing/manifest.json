@@ -1,0 +1,58 @@
+[
+  {
+    "file": "dvca bc 0915.drawio",
+    "bytes": 37677368,
+    "sha256": "9a22afa3d02529a93b70e987daa47164e87e57309b949a66343dc1b52c2e7804",
+    "pages": 10
+  },
+  {
+    "file": "dvca curve comp&abl 0917.drawio",
+    "bytes": 39915080,
+    "sha256": "04585892db3d3fea18d5571afd72a9a3ba82a47d3e790ceea52590be3a8c1949",
+    "pages": 13
+  },
+  {
+    "file": "dvca exp scene 0916.drawio",
+    "bytes": 109419009,
+    "sha256": "c33d2f4e85f2570b7b9aed2f8c7a47781370f47d809acca0859bc2aad35c088c",
+    "pages": 9,
+    "archive": "dvca exp scene 0916.drawio.zip"
+  },
+  {
+    "file": "dvca head 0912.drawio",
+    "bytes": 101710435,
+    "sha256": "fd79e7b0d8f129e709f90677181f2f1741ea0224ad49e4fc8916e6dbd78a9fab",
+    "pages": 14,
+    "archive": "dvca head 0912.drawio.zip"
+  },
+  {
+    "file": "dvca main 0914.drawio",
+    "bytes": 43830094,
+    "sha256": "c2da1bde1ad42de4d2f3241fdaae0238450e0529185851d6bd377cdd6aeccd7d",
+    "pages": 12
+  },
+  {
+    "file": "dvca pcode 0915.drawio",
+    "bytes": 10065636,
+    "sha256": "10c14cc956b5174527ee9c449dc0b030c3840a39e895c3c90670a36d11d2705d",
+    "pages": 9
+  },
+  {
+    "file": "dvca real chart 0916.drawio",
+    "bytes": 17714915,
+    "sha256": "d86efe5026413aef1d273e750d6f671c382dc160869c6556fc87cf1e12ebc9a1",
+    "pages": 8
+  },
+  {
+    "file": "dvca real sample chart 0916.drawio",
+    "bytes": 17380317,
+    "sha256": "56e66001ee426ab362c91b1b70e05987dcc5b80385c42cb9479d1ba9deb5f4a4",
+    "pages": 8
+  },
+  {
+    "file": "turn_switch_world_选帧_0915.drawio",
+    "bytes": 386328,
+    "sha256": "effba0e00c64bc3e7f434b0664a574199345c30340fb0f8ce9c03bd0af279f37",
+    "pages": 1
+  }
+]
