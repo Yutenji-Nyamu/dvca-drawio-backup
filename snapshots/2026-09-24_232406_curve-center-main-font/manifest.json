@@ -1,0 +1,12 @@
+{
+  "authorization": "User explicitly authorized executing previously rejected figure-source GitHub backup; this snapshot contains only that curve source and the current requested main-figure source",
+  "files": {
+    "dvca curve comp&abl 0917.drawio": "de022f62f8cd1c770b20239ad2a868d8012627660002a53159eed45ebdd43de1",
+    "dvca main 0914.drawio": "62a89348b1b154e019072fb92835a89a863be8be3f101949397ffd1017ba722f"
+  },
+  "changes": [
+    "Figure8 panel4 model label centered",
+    "Figure2 Latin mathematical labels use same Chalkboard font as prose and BC figure"
+  ],
+  "other_files_included": false
+}
