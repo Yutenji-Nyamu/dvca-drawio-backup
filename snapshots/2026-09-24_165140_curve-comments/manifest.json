@@ -1,0 +1,7 @@
+{
+  "files": {
+    "dvca curve comp&abl 0917.drawio": "41a80bd0de6db3abe750c257b2597f41b2e9e620665bc361ecb90317c6407fa9",
+    "dvca curve raw data.xlsx": "b777d5bfbdbff8b3a7d0a565c2ce5b96853b984ef499fc5f5ccd6e4562082ced"
+  },
+  "change": "Crop GRPO ablation at shortest endpoint, update tau2 data and set panels1/4 y axis to 0.3-0.7"
+}
