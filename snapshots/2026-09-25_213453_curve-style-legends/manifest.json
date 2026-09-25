@@ -1,0 +1,25 @@
+{
+  "change": "Match Figure 8 line weight to Figure 7; outline peak stars; tighten two Figure 9 legend frames. Preserve all old source pages and all data geometry.",
+  "files": [
+    {
+      "file": "dvca curve comp&abl 0917.drawio",
+      "sha256": "47bf5399c0e0657ce182c1973cf12d37c230f8c5781ecb480e64a3a2708c605a"
+    },
+    {
+      "file": "dv_training_and_bc8_trials.drawio",
+      "sha256": "009eaeb272e3683b1bbba31244a46caec6173312ba4f1fa9995705129ead8a91"
+    },
+    {
+      "file": "dvca_curve_legend_centered_20260924.pdf",
+      "sha256": "f1680f2a93e34362a94fef05bbe5fdabab3e5d8073ffa0ffcc9537adf0468ae5"
+    },
+    {
+      "file": "grpo_dv_concentration.pdf",
+      "sha256": "99d840e64118029cfc407cf41e76f53736195169cbeb651e6e1cef5689762660"
+    },
+    {
+      "file": "filter_il_8u5_training.pdf",
+      "sha256": "f316434e5479552b897eeb5ebfbecacbe841760ac9c05e26bfd51eff954ccbb8"
+    }
+  ]
+}
