@@ -1,0 +1,73 @@
+{
+  "change": "Tighten the 14 appendix case title gaps; preserve curves, photos, dimensions and all original Draw.io pages.",
+  "files": [
+    {
+      "file": "DV_选中14例_20260925.drawio",
+      "sha256": "fa5c2c2d7f070f507e2f60128f167130c7636a9a8bb5f75391bf03890c766b21"
+    },
+    {
+      "file": "DV50_每任务一例_20260924.drawio",
+      "sha256": "0a37d949221a78728383848ef79db7c86acf8f9802bbc998d852da250ef7836b"
+    },
+    {
+      "file": "DV_选中14例_20260925.pdf",
+      "sha256": "39786ffca84e4802be638b743e47ca10dc3c105a82514fb3f0d43c9f3df1590a"
+    },
+    {
+      "file": "DV_case_01_adjust_bottle.pdf",
+      "sha256": "09e21c776fa9881eb039e37f512dc9fa4c1b51b816b3a89a723aa6eeae55e078"
+    },
+    {
+      "file": "DV_case_02_lift_pot.pdf",
+      "sha256": "777aa1288c47ec570940035acf8cb3b2f5dd65b5cdafd3ce77bd1470d759e95c"
+    },
+    {
+      "file": "DV_case_03_move_pillbottle_pad.pdf",
+      "sha256": "0187f42d6e7f463721d452b98f79ceb079cbe9d5fe5d55ac6e8167881407f9b0"
+    },
+    {
+      "file": "DV_case_04_move_playingcard_away.pdf",
+      "sha256": "f759ba2ef35ff49609c9d5f4ad85b138d018fe6f8ed834d9db1d83358dd0bd25"
+    },
+    {
+      "file": "DV_case_05_place_a2b_left.pdf",
+      "sha256": "07b10137244c33429070ad0ceb44d7f0e5f18b9832ffa6ef66c7a0407117cce7"
+    },
+    {
+      "file": "DV_case_06_place_cans_plasticbox.pdf",
+      "sha256": "d8a6f8a5ce591bcd400eadab06ed14b54fdffbff4b125a0ac91545904d66047a"
+    },
+    {
+      "file": "DV_case_07_place_shoe.pdf",
+      "sha256": "73d0431d77bfefc699d32cfa4e0189fdba27bda9accede795c2ce292c272b520"
+    },
+    {
+      "file": "DV_case_08_rotate_qrcode.pdf",
+      "sha256": "a08d3ceeea45e60127405096446d9624de7cdc670381d53800a0a44175e515fd"
+    },
+    {
+      "file": "DV_case_09_scan_object.pdf",
+      "sha256": "1c3c4703e66a4ecfc70db8d721e32fd640d350d9bfaef8cef3f0d24b88ff55ae"
+    },
+    {
+      "file": "DV_case_10_stamp_seal.pdf",
+      "sha256": "513ff202d29fb0c8b3327af989495095f6df984bc124f41488689d65407fa716"
+    },
+    {
+      "file": "DV_case_11_beat_block_hammer.pdf",
+      "sha256": "22b945cd6b93872e4a80d2eb03cb5a957882e6834c18de865575fa66d8e884ac"
+    },
+    {
+      "file": "DV_case_12_place_phone_stand.pdf",
+      "sha256": "922d319222bf79e43842250b2514fe25bd86980afbc34d4c57a0ef02f9460df5"
+    },
+    {
+      "file": "DV_case_13_handover_block.pdf",
+      "sha256": "74b98c8c76398ef0b3dced0f81161b8b5247d6ce8b7acc1abb3d225a240341cf"
+    },
+    {
+      "file": "DV_case_14_open_microwave.pdf",
+      "sha256": "34759a242df36a012d84488260969b82a8e95a025dc242a75956a3326a5dc37a"
+    }
+  ]
+}
