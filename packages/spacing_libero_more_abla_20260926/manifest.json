@@ -1,0 +1,17 @@
+{
+  "sources": [
+    {
+      "filename": "dvca real chart 0916.drawio",
+      "sha256": "20ad9060aea3e124008e5d4f343fc3a3dc03d337c7f526904e5fa9b9cf67123a",
+      "archive": "bar_drawio.zip",
+      "bytes": 12037482
+    },
+    {
+      "filename": "dvca exp scene 0916.drawio",
+      "sha256": "2546d91e81f97245b6f1a71e002fd1c671f68c3fdc4ee40edf5539def0884ee2",
+      "archive": "scene_drawio.zip",
+      "bytes": 101024702
+    }
+  ],
+  "changes": "Bar x positions only; new RoboTwin/LIBERO scene panel; all historical source pages preserved."
+}
