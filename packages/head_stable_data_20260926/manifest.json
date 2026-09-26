@@ -1,0 +1,18 @@
+{
+  "sources": [
+    {
+      "filename": "dvca head 0912.drawio",
+      "sha256": "e72b69a077406540a7b4bf9bb6399946ad77e98960450f78baa63209a4b2e185",
+      "archive": "head_drawio.zip",
+      "bytes": 65299571
+    },
+    {
+      "filename": "dvca curve comp&abl 0917.drawio",
+      "sha256": "fde98bc91ac6aaaee4a79427a41ad48d578073554ac52c2382d691e504292b67",
+      "archive": "curves_drawio.zip",
+      "bytes": 2828306
+    }
+  ],
+  "changes": "User-selected head page; stable Filter IL curves in head and comparison figure; supervised-loss labels. All historical source pages preserved.",
+  "excel_modified": false
+}
